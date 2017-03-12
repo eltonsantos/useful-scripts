@@ -1,14 +1,20 @@
 # Several useful script
 
-Several useful script learned in Udemy's shell script course, teached by Marcos Castro. Course's link: https://www.udemy.com/shell-script.
+Several useful script learned in Udemy's shell script course, teached by Marcos Castro.
+Course's link: https://www.udemy.com/shell-script.
 
 ## Scripts list
 
 - Simple hello world (Just to get started)
+-
 
 ## Usage
 
-In terminal just enter `./[script_name].sh`.
+- In terminal enter
+- `git clone git@github.com:eltonsantos/useful-scripts.git`.
+- `sudo chmod 777 -R useful-scripts`.
+- `cd useful-scripts/`.
+- `./*[script_name]*.sh`.
 
 ## Contributing
 
