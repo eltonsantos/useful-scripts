@@ -5,8 +5,8 @@ Course's link: https://www.udemy.com/shell-script.
 
 ## Scripts list
 
-- Simple hello world (Just to get started)
--
+ - Simple hello world (Just to get started)
+ - Header
 
 ## Usage
 
@@ -14,7 +14,7 @@ Course's link: https://www.udemy.com/shell-script.
 - `git clone git@github.com:eltonsantos/useful-scripts.git`.
 - `sudo chmod 777 -R useful-scripts`.
 - `cd useful-scripts/`.
-- `./*[script_name]*.sh`.
+- `./[script_name].sh`.
 
 ## Contributing
 
