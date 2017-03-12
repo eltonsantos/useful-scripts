@@ -6,7 +6,7 @@ Course's link: https://www.udemy.com/shell-script.
 ## Scripts list
 
  - Simple hello world (Just to get started)
- - Header
+ - Administration script
 
 ## Usage
 
